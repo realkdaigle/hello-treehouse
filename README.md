@@ -1,5 +1,5 @@
 # hello-treehouse
-Hello Treehouse students. :sparkles:
+Hello Treehouse students! :sparkles:
 
 ## How to Run
 

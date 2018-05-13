@@ -2,6 +2,6 @@
 
 puts "Starting..."
 
-raise RuntimeError, "Don't start! It will explode!"
+puts "Started! It will NOT explode ANYMORE!"
 
 puts "Finished loading 100%"

@@ -2,6 +2,6 @@
 
 puts "Starting..."
 
-puts "Started! It will NOT explode ANYMORE!"
+puts "Started with no explosion!"
 
 puts "Finished loading 100%"

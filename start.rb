@@ -2,6 +2,4 @@
 
 puts "Starting..."
 
-
-
-puts "Finished loading 100%"
+put "Finished loading 100%"

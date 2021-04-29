@@ -1,7 +1,5 @@
-#!/usr/bin/ruby
+#!/usr/bin/ruy
 
 puts "Starting..."
-
-raise RuntimeError, "Don't start! It will explode!"
 
 puts "Finished loading 100%"
